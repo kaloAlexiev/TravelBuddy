@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TravelBuddy/static/css/main.2cce8147.chunk.css",
+    "main.js": "/TravelBuddy/static/js/main.de9d5fa7.chunk.js",
+    "main.js.map": "/TravelBuddy/static/js/main.de9d5fa7.chunk.js.map",
+    "runtime~main.js": "/TravelBuddy/static/js/runtime~main.44d2ef19.js",
+    "runtime~main.js.map": "/TravelBuddy/static/js/runtime~main.44d2ef19.js.map",
+    "static/js/2.e71b393e.chunk.js": "/TravelBuddy/static/js/2.e71b393e.chunk.js",
+    "static/js/2.e71b393e.chunk.js.map": "/TravelBuddy/static/js/2.e71b393e.chunk.js.map",
+    "index.html": "/TravelBuddy/index.html",
+    "precache-manifest.0e5da7791ecc4f3e62cec0c538df2ced.js": "/TravelBuddy/precache-manifest.0e5da7791ecc4f3e62cec0c538df2ced.js",
+    "service-worker.js": "/TravelBuddy/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/TravelBuddy/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/TravelBuddy/static/media/logo.5d5d9eef.svg"
+  }
+}
